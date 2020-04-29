@@ -9,11 +9,11 @@ run bash run_docker.sh
 
 For Docker installation instructions follow:
 
-— [Docker installation](https://medium.com/r/?url=https%3A%2F%2Fdocs.docker.com%2Fengine%2Finstall%2Fubuntu%2F)
+— [Docker installation](https://docs.docker.com/engine/install/ubuntu/)
 
-— [Make Docker run without root](https://medium.com/r/?url=https%3A%2F%2Fdocs.docker.com%2Fengine%2Finstall%2Flinux-postinstall%2F)
+— [Make Docker run without root](https://docs.docker.com/engine/install/linux-postinstall/)
 
-— [Docker Compose installation](https://medium.com/r/?url=https%3A%2F%2Fdocs.docker.com%2Fcompose%2Finstall%2F)
+— [Docker Compose installation](https://docs.docker.com/compose/install/)
 
 ## Understanding the solution
 

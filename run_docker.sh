@@ -1,6 +1,7 @@
-echo killing old docker processes
+#!/bin/bash
+
+echo "killing old docker processes"
 docker-compose rm -fs
 
-echo building docker containers
+echo "building docker containers"
 docker-compose up --build -d
-
